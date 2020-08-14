@@ -1,0 +1,8 @@
+name: ThinIce
+version: 1.2
+description: Make Ice to Water if players are on the block
+author: [AlaDyn172]
+main: ro.andreielvis.thinice.Main
+
+commands:
+permissions:
